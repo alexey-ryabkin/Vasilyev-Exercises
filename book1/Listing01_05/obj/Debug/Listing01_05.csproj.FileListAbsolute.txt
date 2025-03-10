@@ -1,0 +1,7 @@
+D:\YandexDisk\C#\Васильев\Listing01_05\obj\Debug\Listing01_05.csproj.AssemblyReference.cache
+D:\YandexDisk\C#\Васильев\Listing01_05\obj\Debug\Listing01_05.csproj.CoreCompileInputs.cache
+D:\YandexDisk\C#\Васильев\Listing01_05\bin\Debug\Listing01_05.exe.config
+D:\YandexDisk\C#\Васильев\Listing01_05\bin\Debug\Listing01_05.exe
+D:\YandexDisk\C#\Васильев\Listing01_05\bin\Debug\Listing01_05.pdb
+D:\YandexDisk\C#\Васильев\Listing01_05\obj\Debug\Listing01_05.exe
+D:\YandexDisk\C#\Васильев\Listing01_05\obj\Debug\Listing01_05.pdb

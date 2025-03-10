@@ -1,0 +1,7 @@
+D:\YandexDisk\C#\Васильев\Exercise01_01b\bin\Debug\Exercise01_01b.exe.config
+D:\YandexDisk\C#\Васильев\Exercise01_01b\bin\Debug\Exercise01_01b.exe
+D:\YandexDisk\C#\Васильев\Exercise01_01b\bin\Debug\Exercise01_01b.pdb
+D:\YandexDisk\C#\Васильев\Exercise01_01b\obj\Debug\Exercise01_01b.csproj.AssemblyReference.cache
+D:\YandexDisk\C#\Васильев\Exercise01_01b\obj\Debug\Exercise01_01b.csproj.CoreCompileInputs.cache
+D:\YandexDisk\C#\Васильев\Exercise01_01b\obj\Debug\Exercise01_01b.exe
+D:\YandexDisk\C#\Васильев\Exercise01_01b\obj\Debug\Exercise01_01b.pdb

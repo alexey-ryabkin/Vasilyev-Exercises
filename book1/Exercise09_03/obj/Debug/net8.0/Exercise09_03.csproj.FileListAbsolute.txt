@@ -1,0 +1,14 @@
+D:\YandexDisk\C#\Васильев\Exercise09_03\obj\Debug\net8.0\Exercise09_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\C#\Васильев\Exercise09_03\obj\Debug\net8.0\Exercise09_03.AssemblyInfoInputs.cache
+D:\YandexDisk\C#\Васильев\Exercise09_03\obj\Debug\net8.0\Exercise09_03.AssemblyInfo.cs
+D:\YandexDisk\C#\Васильев\Exercise09_03\obj\Debug\net8.0\Exercise09_03.csproj.CoreCompileInputs.cache
+D:\YandexDisk\C#\Васильев\Exercise09_03\bin\Debug\net8.0\Exercise09_03.exe
+D:\YandexDisk\C#\Васильев\Exercise09_03\bin\Debug\net8.0\Exercise09_03.deps.json
+D:\YandexDisk\C#\Васильев\Exercise09_03\bin\Debug\net8.0\Exercise09_03.runtimeconfig.json
+D:\YandexDisk\C#\Васильев\Exercise09_03\bin\Debug\net8.0\Exercise09_03.dll
+D:\YandexDisk\C#\Васильев\Exercise09_03\bin\Debug\net8.0\Exercise09_03.pdb
+D:\YandexDisk\C#\Васильев\Exercise09_03\obj\Debug\net8.0\Exercise09_03.dll
+D:\YandexDisk\C#\Васильев\Exercise09_03\obj\Debug\net8.0\refint\Exercise09_03.dll
+D:\YandexDisk\C#\Васильев\Exercise09_03\obj\Debug\net8.0\Exercise09_03.pdb
+D:\YandexDisk\C#\Васильев\Exercise09_03\obj\Debug\net8.0\Exercise09_03.genruntimeconfig.cache
+D:\YandexDisk\C#\Васильев\Exercise09_03\obj\Debug\net8.0\ref\Exercise09_03.dll

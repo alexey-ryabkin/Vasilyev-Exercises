@@ -1,0 +1,17 @@
+D:\YandexDisk\C#\Васильев\Exercise01_01\obj\Debug\net9.0-windows10.0.26100.0\Exercise01_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\C#\Васильев\Exercise01_01\obj\Debug\net9.0-windows10.0.26100.0\Exercise01_01.AssemblyInfoInputs.cache
+D:\YandexDisk\C#\Васильев\Exercise01_01\obj\Debug\net9.0-windows10.0.26100.0\Exercise01_01.AssemblyInfo.cs
+D:\YandexDisk\C#\Васильев\Exercise01_01\obj\Debug\net9.0-windows10.0.26100.0\Exercise01_01.csproj.CoreCompileInputs.cache
+D:\YandexDisk\C#\Васильев\Exercise01_01\bin\Debug\net9.0-windows10.0.26100.0\Exercise01_01.exe
+D:\YandexDisk\C#\Васильев\Exercise01_01\bin\Debug\net9.0-windows10.0.26100.0\Exercise01_01.deps.json
+D:\YandexDisk\C#\Васильев\Exercise01_01\bin\Debug\net9.0-windows10.0.26100.0\Exercise01_01.runtimeconfig.json
+D:\YandexDisk\C#\Васильев\Exercise01_01\bin\Debug\net9.0-windows10.0.26100.0\Exercise01_01.dll
+D:\YandexDisk\C#\Васильев\Exercise01_01\bin\Debug\net9.0-windows10.0.26100.0\Exercise01_01.pdb
+D:\YandexDisk\C#\Васильев\Exercise01_01\bin\Debug\net9.0-windows10.0.26100.0\Microsoft.Windows.SDK.NET.dll
+D:\YandexDisk\C#\Васильев\Exercise01_01\bin\Debug\net9.0-windows10.0.26100.0\WinRT.Runtime.dll
+D:\YandexDisk\C#\Васильев\Exercise01_01\obj\Debug\net9.0-windows10.0.26100.0\Exercise.60A2833F.Up2Date
+D:\YandexDisk\C#\Васильев\Exercise01_01\obj\Debug\net9.0-windows10.0.26100.0\Exercise01_01.dll
+D:\YandexDisk\C#\Васильев\Exercise01_01\obj\Debug\net9.0-windows10.0.26100.0\refint\Exercise01_01.dll
+D:\YandexDisk\C#\Васильев\Exercise01_01\obj\Debug\net9.0-windows10.0.26100.0\Exercise01_01.pdb
+D:\YandexDisk\C#\Васильев\Exercise01_01\obj\Debug\net9.0-windows10.0.26100.0\Exercise01_01.genruntimeconfig.cache
+D:\YandexDisk\C#\Васильев\Exercise01_01\obj\Debug\net9.0-windows10.0.26100.0\ref\Exercise01_01.dll

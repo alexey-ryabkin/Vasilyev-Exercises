@@ -1,0 +1,14 @@
+D:\YandexDisk\C#\Васильев\Listing01_06\bin\Debug\net9.0\Listing01_06.exe
+D:\YandexDisk\C#\Васильев\Listing01_06\bin\Debug\net9.0\Listing01_06.deps.json
+D:\YandexDisk\C#\Васильев\Listing01_06\bin\Debug\net9.0\Listing01_06.runtimeconfig.json
+D:\YandexDisk\C#\Васильев\Listing01_06\bin\Debug\net9.0\Listing01_06.dll
+D:\YandexDisk\C#\Васильев\Listing01_06\bin\Debug\net9.0\Listing01_06.pdb
+D:\YandexDisk\C#\Васильев\Listing01_06\obj\Debug\net9.0\Listing01_06.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\C#\Васильев\Listing01_06\obj\Debug\net9.0\Listing01_06.AssemblyInfoInputs.cache
+D:\YandexDisk\C#\Васильев\Listing01_06\obj\Debug\net9.0\Listing01_06.AssemblyInfo.cs
+D:\YandexDisk\C#\Васильев\Listing01_06\obj\Debug\net9.0\Listing01_06.csproj.CoreCompileInputs.cache
+D:\YandexDisk\C#\Васильев\Listing01_06\obj\Debug\net9.0\Listing01_06.dll
+D:\YandexDisk\C#\Васильев\Listing01_06\obj\Debug\net9.0\refint\Listing01_06.dll
+D:\YandexDisk\C#\Васильев\Listing01_06\obj\Debug\net9.0\Listing01_06.pdb
+D:\YandexDisk\C#\Васильев\Listing01_06\obj\Debug\net9.0\Listing01_06.genruntimeconfig.cache
+D:\YandexDisk\C#\Васильев\Listing01_06\obj\Debug\net9.0\ref\Listing01_06.dll
