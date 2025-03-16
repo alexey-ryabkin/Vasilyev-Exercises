@@ -1,0 +1,15 @@
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Exercise04_04\bin\Debug\net8.0\Exercise04_04.exe
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Exercise04_04\bin\Debug\net8.0\Exercise04_04.deps.json
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Exercise04_04\bin\Debug\net8.0\Exercise04_04.runtimeconfig.json
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Exercise04_04\bin\Debug\net8.0\Exercise04_04.dll
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Exercise04_04\bin\Debug\net8.0\Exercise04_04.pdb
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Exercise04_04\obj\Debug\net8.0\Exercise04_04.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Exercise04_04\obj\Debug\net8.0\Exercise04_04.AssemblyInfoInputs.cache
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Exercise04_04\obj\Debug\net8.0\Exercise04_04.AssemblyInfo.cs
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Exercise04_04\obj\Debug\net8.0\Exercise04_04.csproj.CoreCompileInputs.cache
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Exercise04_04\obj\Debug\net8.0\Exercise04_04.sourcelink.json
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Exercise04_04\obj\Debug\net8.0\Exercise04_04.dll
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Exercise04_04\obj\Debug\net8.0\refint\Exercise04_04.dll
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Exercise04_04\obj\Debug\net8.0\Exercise04_04.pdb
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Exercise04_04\obj\Debug\net8.0\Exercise04_04.genruntimeconfig.cache
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Exercise04_04\obj\Debug\net8.0\ref\Exercise04_04.dll
