@@ -1,0 +1,15 @@
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Testing06_02isolation\bin\Debug\net8.0\Testing06_02isolation.exe
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Testing06_02isolation\bin\Debug\net8.0\Testing06_02isolation.deps.json
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Testing06_02isolation\bin\Debug\net8.0\Testing06_02isolation.runtimeconfig.json
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Testing06_02isolation\bin\Debug\net8.0\Testing06_02isolation.dll
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Testing06_02isolation\bin\Debug\net8.0\Testing06_02isolation.pdb
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Testing06_02isolation\obj\Debug\net8.0\Testing06_02isolation.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Testing06_02isolation\obj\Debug\net8.0\Testing06_02isolation.AssemblyInfoInputs.cache
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Testing06_02isolation\obj\Debug\net8.0\Testing06_02isolation.AssemblyInfo.cs
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Testing06_02isolation\obj\Debug\net8.0\Testing06_02isolation.csproj.CoreCompileInputs.cache
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Testing06_02isolation\obj\Debug\net8.0\Testing06_02isolation.sourcelink.json
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Testing06_02isolation\obj\Debug\net8.0\Testing06_02isolation.dll
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Testing06_02isolation\obj\Debug\net8.0\refint\Testing06_02isolation.dll
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Testing06_02isolation\obj\Debug\net8.0\Testing06_02isolation.pdb
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Testing06_02isolation\obj\Debug\net8.0\Testing06_02isolation.genruntimeconfig.cache
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Testing06_02isolation\obj\Debug\net8.0\ref\Testing06_02isolation.dll
