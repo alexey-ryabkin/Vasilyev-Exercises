@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\YandexDisk\\C#\\Vasilyev-Exercises\\book2\\Exercise08_04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59C0E60C-A836-4B0A-AC1E-EF701DB8CD00}|Exercise08_04.csproj|d:\\yandexdisk\\c#\\vasilyev-exercises\\book2\\exercise08_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C0E60C-A836-4B0A-AC1E-EF701DB8CD00}|Exercise08_04.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Exercise08_04||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C0E60C-A836-4B0A-AC1E-EF701DB8CD00}|Exercise08_04.csproj|d:\\yandexdisk\\c#\\vasilyev-exercises\\book2\\exercise08_04\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\YandexDisk\\C#\\Vasilyev-Exercises\\book2\\Exercise08_04\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\YandexDisk\\C#\\Vasilyev-Exercises\\book2\\Exercise08_04\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwEoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:11:23.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercise08_04",
+              "DocumentMoniker": "D:\\YandexDisk\\C#\\Vasilyev-Exercises\\book2\\Exercise08_04\\Exercise08_04.csproj",
+              "RelativeDocumentMoniker": "Exercise08_04.csproj",
+              "ToolTip": "D:\\YandexDisk\\C#\\Vasilyev-Exercises\\book2\\Exercise08_04\\Exercise08_04.csproj",
+              "RelativeToolTip": "Exercise08_04.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-13T12:10:49.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

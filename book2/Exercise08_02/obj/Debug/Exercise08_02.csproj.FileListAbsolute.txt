@@ -1,0 +1,7 @@
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Exercise08_02\bin\Debug\Exercise08_02.exe.config
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Exercise08_02\bin\Debug\Exercise08_02.exe
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Exercise08_02\bin\Debug\Exercise08_02.pdb
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Exercise08_02\obj\Debug\Exercise08_02.csproj.AssemblyReference.cache
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Exercise08_02\obj\Debug\Exercise08_02.csproj.CoreCompileInputs.cache
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Exercise08_02\obj\Debug\Exercise08_02.exe
+D:\YandexDisk\C#\Vasilyev-Exercises\book2\Exercise08_02\obj\Debug\Exercise08_02.pdb
